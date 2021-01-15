@@ -1,2 +1,2 @@
-# JavaScripts_Learning
-Hands-On practiced on JS
+# JavaScript_Learning
+Hands-On practice on JS
